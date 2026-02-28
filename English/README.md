@@ -1,4 +1,4 @@
-
+```text
 SSC CHSL ENGLISH SYLLABUS
 │
 ├── 1. GRAMMAR
@@ -109,3 +109,5 @@ SSC CHSL ENGLISH SYLLABUS
       └── 5.1 Para Jumbles
             ├── Sentence Order
             └── Logical Flow
+
+```
