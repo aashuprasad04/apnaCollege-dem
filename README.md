@@ -1,4 +1,4 @@
-# apnaCollege-demo
-This is my first git repo.
-<br>
-Author - Ashu Prasad
+1. Reasoning
+2. Maths
+3. English
+4. General Awareness (GK)
